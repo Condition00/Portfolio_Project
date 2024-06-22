@@ -3,8 +3,8 @@
 
 > website url ->
 
-![GitHub stars](https://img.shields.io/github/stars/Condition00/Condition00.github.io) 
-![GitHub forks](https://img.shields.io/github/forks/Condition00/Condition00.github.io)
+![GitHub stars](https://img.shields.io/github/stars/Condition00/https://github.com/Condition00/Portfolio_Project) 
+![GitHub forks](https://img.shields.io/github/forks/Condition00/https://github.com/Condition00/Portfolio_Project)
 [![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/Condition00/Condition00.github.io/commits/master)
 [![Website shields.io](https://img.shields.io/badge/website-down-red)](http://Condition00.github.io/)
 [![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in//)
