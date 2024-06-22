@@ -6,7 +6,7 @@
 }
 
 body{
-    background-color: #1f0501;
+    background: url(images/bg1.jpg);
     color: azure;
 }
 
@@ -16,7 +16,7 @@ body{
     left: 0;
     width: 100%;
     padding: 25px;
-    background: transparent;
+    background: url(images/ban.jpg);
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -24,15 +24,15 @@ body{
 }
 
 .logo {
-    font-size: 25px;
+    font-size: 24.5px;
     color: azure;
     text-decoration: none;
     font-weight: 600;
 }
 
 .navbar a {
-    font-size: 18px;
-    color: antiquewhite;
+    font-size: 19px;
+    color: azure;
     text-decoration: none;
     font-weight: 500;
     margin-left: 35px;
@@ -41,7 +41,7 @@ body{
 
 .navbar a:hover,
 .navbar a:active{
-    color: #ff2929;
+    color: pink;
 }
 
 .home{
@@ -66,7 +66,7 @@ body{
 .home-content h3 {
     font-size: 35px;
     font-weight: 700;
-    color: #ff2929;
+    color: rgb(255, 0, 128);
 }
 
 .home-content p {
@@ -88,8 +88,8 @@ body{
     align-items: center;
     width: 150px;
     height: 100%;
-    background: #ff2929;
-    border: 2px solid #ff2929;
+    background: rgb(255, 0, 128);
+    border: 2px solid pink;
     border-radius: 8px;
     font-size: 19px;
     color: #1f0501;
@@ -102,20 +102,20 @@ body{
 }
 
 .btn-box a:hover{
-    color: #ff2929;
+    color: rgb(255, 0, 128);
 }
 
 .btn-box a:nth-child(2) {
     background: transparent;
-    color: #ff2929;
+    color: rgb(255, 0, 128);
 }
 
 .btn-box a:nth-child(2):hover{
-    color: #1f0501;
+    color: rgb(0, 1, 36);
 }
 
 .btn-box a:nth-child(2)::before{
-    background: #ff2929;
+    background: rgb(255, 0, 128);
 }
 
 .btn-box a::before {
@@ -125,7 +125,7 @@ body{
     left: 0;
     width: 0;
     height: 100%;
-    background: #1f0501;
+    background: rgb(0, 1, 36);
     z-index: -1;
     transition: .5s;
 }
@@ -149,10 +149,10 @@ body{
     width: 40px;
     height: 40px;
     background: transparent;
-    border: 2.1px solid #ff2929;
+    border: 2.1px solid rgb(255, 0, 128);
     border-radius: 50%;
     font-size: 25px;
-    color: #ff2929;
+    color: rgb(255, 0, 128);
     justify-content: center;
     align-items: center;
     text-decoration: none;
@@ -171,7 +171,7 @@ body{
     left: 0;
     width: 0;
     height: 100%;
-    background: #ff2929;
+    background: rgb(255, 0, 128);
     z-index: -1;
     transition: .5s;
 }
@@ -180,3 +180,14 @@ body{
 .home-sci a:hover::before {
     width: 100%;
 }
+
+.img{
+    height: 16em;
+    width: 16em;
+    border-radius: 50%;
+    float: right;
+    margin-left: 140px;
+    border: 2px solid pink;
+}
+
+
